@@ -3,6 +3,9 @@
 ## Education
  
 - 🧠 BSc Cognitive Science at Aarhus University
+- 👨‍💻 'Emerging Innovation in Finance' Radford University Course
+- 
+- 
 
 ## Currently interested in
 
@@ -15,8 +18,9 @@
 
 - 📝 A Tool for extractive summarization for danish text using a pre-trained BERT model
 - 💹 Bayesian analysis of retail investor strategies. Examining ‘risk conformity’ in a gambling-like investment scenario 
-- 💑 A better phenomenological framework for examining sense of responsibility: Sense of responsible agency & retrospective responsibility
-- 
+- 💑 A better phenomenological framework for examining Sense of Responsibility: Sense of Responsible Agency & Retrospective Responsibility
+- 🔍 Neuroimaging: EEG & fMRI Analysis and Data acquisition 
+- 👀 Eye and Mouse Tracking Analysis
 
 
 
