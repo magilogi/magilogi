@@ -1,13 +1,11 @@
 # 👋 Hey there! I’m Nikolaj Munch 👋
 
-![hey](https://media0.giphy.com/media/l3nWrncF7S6w3htGU/giphy.gif?cid=ecf05e47w5lhqf1r5g13flpbzw8i3i7zgfpqai2hu1ua3npk&rid=giphy.gif&ct=g)
-
 ## Education
  
 - 🧠 BSc Cognitive Science at Aarhus University
 - 👨‍💻 'Emerging Innovation in Finance' Radford University Course
 - 
-- 
+
 
 ## Currently interested in
 
@@ -24,6 +22,7 @@
 - 🔍 Neuroimaging: EEG & fMRI Analysis and Data acquisition 
 - 👀 Eye and Mouse Tracking Analysis
 
+![hey](https://media0.giphy.com/media/l3nWrncF7S6w3htGU/giphy.gif?cid=ecf05e47w5lhqf1r5g13flpbzw8i3i7zgfpqai2hu1ua3npk&rid=giphy.gif&ct=g)
 
 
 
