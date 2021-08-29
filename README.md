@@ -15,7 +15,7 @@
 
 - 📝 A Tool for extractive summarization for danish text using a pre-trained BERT model
 - 💹 Bayesian analysis of retail investor strategies. Examining ‘risk conformity’ in a gambling-like investment scenario 
-- 💑 A better phenomenological framework for examining sense of responsibility: Sense of responsible agency &
+- 💑 A better phenomenological framework for examining sense of responsibility: Sense of responsible agency & retrospective responsibility
 - 
 
 
