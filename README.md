@@ -4,7 +4,7 @@
  
 - 🧠 BSc Cognitive Science at Aarhus University
 - 👨‍💻 'Emerging Innovation in Finance' Radford University Course
-- 
+- 💡 Cultural Data Science
 
 
 ## Currently interested in
