@@ -9,6 +9,7 @@
 
 ## Currently interested in
 
+- 🔍 Large-scale EEG Hyperscanning
 - 🖖🦾 Using BCI's for Neurorehabilitation: Detecting movement intentions using EEG Signal Classification 🦿🤟
 - 💸 Decentralized Finance and Blockchain Technology
 - 💬 Natural Language Processing
